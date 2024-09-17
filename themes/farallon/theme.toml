@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://baqq.top'
 languageCode = 'zh-cn'
 defaultContentLanguage = 'zh-cn'
-title = 'Example Site'
+title = ''
 theme = 'Farallon'
 
 
