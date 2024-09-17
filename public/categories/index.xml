@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分类 on My New Hugo Site</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in 分类 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 16:49:00 +0800</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>笔记</title>
+      <link>https://example.org/categories/zine/</link>
+      <pubDate>Thu, 29 Jun 2023 16:49:00 +0800</pubDate>
+      <guid>https://example.org/categories/zine/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
