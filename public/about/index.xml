@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on My New Hugo Site</title>
-    <link>https://example.org/about/</link>
-    <description>Recent content in About on My New Hugo Site</description>
+    <title>About on 我的备案</title>
+    <link>https://baqq.top/about/</link>
+    <description>Recent content in About on 我的备案</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baqq.top/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
